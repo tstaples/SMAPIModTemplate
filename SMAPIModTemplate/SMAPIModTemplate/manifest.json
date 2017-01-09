@@ -1,0 +1,14 @@
+﻿{
+  "Name": "$projectname$",
+  "Author": "$username$",
+  "Version": {
+    "MajorVersion": 1,
+    "MinorVersion": 0,
+    "PatchVersion": 0,
+    "Build": ""
+  },
+  "MinimumApiVersion": "",
+  "Description": "My mod description.",
+  "UniqueID": "$guid1$",
+  "EntryDll": "$projectname$.dll"
+}
