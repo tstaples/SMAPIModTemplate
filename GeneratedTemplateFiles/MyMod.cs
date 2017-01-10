@@ -9,6 +9,7 @@ namespace $safeprojectname$
     {
         public override void Entry(IModHelper helper)
         {
+        	this.Monitor.Log("$custommessage$");
         }
     }
 }

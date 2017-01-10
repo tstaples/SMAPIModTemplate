@@ -23,4 +23,8 @@
       </Folder>
     </Project>
   </TemplateContent>
+  <WizardExtension>
+    <Assembly>ModTemplateInstallWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6be7170e2ebc0c52, </Assembly>
+    <FullClassName>ModTemplateInstallWizard.InstallWizard</FullClassName>
+  </WizardExtension>
 </VSTemplate>
